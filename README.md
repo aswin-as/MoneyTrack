@@ -25,7 +25,7 @@ Select Git.
 Paste the GitHub repository URL:
 
 
-https://github.com/your-username/your-repo-name.git
+https://github.com/aswin-as/MoneyTrack.git
 
 
 4. Choose the folder location on your system.
